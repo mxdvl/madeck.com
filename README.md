@@ -1,4 +1,6 @@
-# My very own website
+> My current (2020) website is built with [Kirby](https://github.com/getkirby/). This repo is now archived.
+
+# My very own (old) website
 
 ![](https://img.shields.io/badge/built_by-mxdvl-blue)
 
